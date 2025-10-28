@@ -24,11 +24,16 @@ View your app in AI Studio: https://ai.studio/apps/drive/10DbqYsB-A9NeFaqs9f2sRj
 
 **Prerequisites:**  Node.js
 
+**Clone and Run Locally:**
+```bash
+git clone [https://github.com/syednawazali01/intelligent-document-summarizer.git](https://github.com/syednawazali01/intelligent-document-summarizer.git)
+cd intelligent-document-summarizer
 
-1. Install dependencies:
+
+2. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+3. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+4. Run the app:
    `npm run dev`
 
 ## Technologies Used

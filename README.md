@@ -26,7 +26,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/10DbqYsB-A9NeFaqs9f2sRj
 
 **Clone and Run Locally:**
 ```bash
-git clone [https://github.com/syednawazali01/intelligent-document-summarizer.git](https://github.com/syednawazali01/intelligent-document-summarizer.git)
+git clone (https://github.com/syednawazali01/intelligent-document-summarizer.git)
 cd intelligent-document-summarizer
 ```
 
